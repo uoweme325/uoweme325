@@ -1,6 +1,6 @@
 # Hi, I'm uoweme325
 
-Building lightweight, practical open-source utilities for Windows.
+Ciallo～(∠・ω< )⌒★
 
 ## Open-Source Projects
 
